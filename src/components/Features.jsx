@@ -8,10 +8,10 @@ const Features = () => {
     {/* What's Different */}
     <div className='flex flex-col space-y-6 md:w-1/2'> {/* Reduced space between heading and paragraph */}
       <h2 className='max-w-md pt-5 text-4xl text-white font-bold text-center md:text-left'>
-        What's different about CampusFlow?
+        What's different about CampusSync?
       </h2>
       <p className='max-w-sm pt-10 text-[18px] text-center text-darkGrayishBlue md:text-left'>
-        CampusFlow stands out by specifically addressing the unique file and inventory management needs within an educational institution like IIIT Bhubaneswar.
+        CampusSync stands out by specifically addressing the unique file and inventory management needs within an educational institution like IIIT Bhubaneswar.
       </p>
     </div>
 
@@ -36,7 +36,7 @@ const Features = () => {
             Focused on Inventory Workflow
           </h3>
           <p className='text-gray-300'>
-            Unlike generic inventory or file management systems, CampusFlow is designed to handle the intricacies of a campus environment, streamlining file movements specific to departments, faculty, administration, and students.
+            Unlike generic inventory or file management systems, CampusSync is designed to handle the intricacies of a campus environment, streamlining file movements specific to departments, faculty, administration, and students.
           </p>
         </div>
       </div>

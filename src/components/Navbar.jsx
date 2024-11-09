@@ -25,7 +25,7 @@ const Navbar = () => {
     {/* Right Side: Get Started Button */}
     <div className='flex-1 flex justify-end'>
       <Link
-        to='#http://localhost:5173/login'
+        to='http://localhost:5173/login'
         className='hidden p-4 px-6 pt-3 text-md text-white bg-customHsl rounded-full baseline hover:bg-custom-hsl-light md:block'
       >
         Get Started
